@@ -44,7 +44,7 @@
     "@babel/preset-env": "7.16.11",
     "@babel/preset-react": "7.16.7",
     "@next/eslint-plugin-next": "12.1.0",
-    "@types/react": "17.0.0",
+    "@types/react": "^17.0.0",
     "babel-core": "7.0.0-bridge.0",
     "babel-eslint": "10.1.0",
     "babel-plugin-inline-json-import": "0.3.2",
